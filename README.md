@@ -1,6 +1,6 @@
 <!-- Banner (add banner.png to this repo root) -->
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/KhushManchanda/KhushManchanda/main/banner.jpg" alt="Khush banner" />
+  <img align="center" src="https://github.com/KhushManchanda/KhushManchanda/blob/3c4f3cf767286abe46a73cab71aee4ac2fa86bd5/banner.jpg" alt="Khush banner" />
 </p>
 
 <h1 align="center">Hey, I’m Khush!</h1>
