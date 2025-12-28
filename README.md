@@ -67,16 +67,6 @@
 
 
 
-## 📈 GitHub Stats (optional)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushManchanda&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushManchanda&hide_border=true" />
-</p>
-
----
 
 ## 💬 Want to contact me?
 <p>
